@@ -10,6 +10,8 @@ format:
 
 Quarto enables you to weave together content and executable code into a finished presentation. To learn more about Quarto presentations see <https://quarto.org/docs/presentations/>.
 
+## A new slide
+
 ## Bullets
 
 When you click the **Render** button a document will be generated that includes:
